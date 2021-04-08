@@ -497,7 +497,7 @@ div.footer h6 {
     display: block;
     color: white;
     padding: 16px;
-    font-size: 16px;
+    font-size: 16px 0;
     border: none;
     cursor: pointer;
     }
